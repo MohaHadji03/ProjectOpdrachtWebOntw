@@ -6,7 +6,7 @@
         "age": 121,
         "isActive": true,
         "birthDate": "1902-03-06",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Real-Madrid-Logo.png?token=GHSAT0AAAAAAC6JYLXOS6J7YBEMJQ3EJR3KZ5IWKEA",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Real-Madrid-Logo.png",
         "division": "La Liga",
         "hobbies": ["Voetbaltraining", "Jeugdontwikkeling", "Internationale toernooien"],
         "clubDetails": {
@@ -24,7 +24,7 @@
         "age": 124,
         "isActive": true,
         "birthDate": "1899-11-29",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Barcelona-Logo.png?token=GHSAT0AAAAAAC6JYLXP5AXXBTSHX6LGYIO2Z5IWK7A",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Barcelona-Logo.png",
         "division": "La Liga",
         "hobbies": ["Tiki-taka training", "Jeugdopleiding", "Sociale projecten"],
         "clubDetails": {
@@ -42,7 +42,7 @@
         "age": 120,
         "isActive": true,
         "birthDate": "1903-04-26",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/atletico-madrid-Logo.png?token=GHSAT0AAAAAAC6JYLXO5NJHOKP4R7YB5KFIZ5IWLNQ",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/atletico-madrid-Logo.png",
         "division": "La Liga",
         "hobbies": ["Tactische training", "Teambuilding", "Fanactiviteiten"],
         "clubDetails": {
@@ -60,7 +60,7 @@
         "age": 118,
         "isActive": true,
         "birthDate": "1905-01-25",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Sevilla-Logo.png?token=GHSAT0AAAAAAC6JYLXODZGAPN3ATZ7FBOASZ5IWL3A",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Sevilla-Logo.png",
         "division": "La Liga",
         "hobbies": ["Europese wedstrijden", "Talentontwikkeling", "Supportersactiviteiten"],
         "clubDetails": {
@@ -78,7 +78,7 @@
         "age": 104,
         "isActive": true,
         "birthDate": "1919-03-18",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Valencia-Logo.png?token=GHSAT0AAAAAAC6JYLXOGUIJ373I3S55H6OOZ5IWMHQ",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Valencia-Logo.png",
         "division": "La Liga",
         "hobbies": ["Jeugdacademie", "Fanengagement", "Gemeenschapswerk"],
         "clubDetails": {
@@ -96,7 +96,7 @@
         "age": 114,
         "isActive": true,
         "birthDate": "1909-09-07",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Real-Sociedad-Logo.png?token=GHSAT0AAAAAAC6JYLXOGOFFS5FR5YBXAHGWZ5IWMVQ",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Real-Sociedad-Logo.png",
         "division": "La Liga",
         "hobbies": ["Baskisch voetbal", "Jeugdontwikkeling", "Culturele evenementen"],
         "clubDetails": {
@@ -114,7 +114,7 @@
         "age": 116,
         "isActive": true,
         "birthDate": "1907-09-12",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Real-Betis-Logo.png?token=GHSAT0AAAAAAC6JYLXPJYVK7DK7ZGHTYHGCZ5IWNEQ",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Real-Betis-Logo.png",
         "division": "La Liga",
         "hobbies": ["Supportersbijeenkomsten", "Techniektraining", "Sociale projecten"],
         "clubDetails": {
@@ -132,7 +132,7 @@
         "age": 100,
         "isActive": true,
         "birthDate": "1923-03-10",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Villareal-Logo.png?token=GHSAT0AAAAAAC6JYLXP64TUAJRKVCWYSFKIZ5IWNUA",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Villareal-Logo.png",
         "division": "La Liga",
         "hobbies": ["Technisch voetbal", "Jeugdopleiding", "Gemeenschapsprojecten"],
         "clubDetails": {
@@ -150,7 +150,7 @@
         "age": 125,
         "isActive": true,
         "birthDate": "1898-04-23",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Athletic-Bilbao-Logo.png?token=GHSAT0AAAAAAC6JYLXPTIEGTOEOVHOA5MKUZ5IWOKA",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Athletic-Bilbao-Logo.png",
         "division": "La Liga",
         "hobbies": ["Baskische talentenscouting", "Traditionele evenementen", "Lokale ontwikkeling"],
         "clubDetails": {
@@ -168,7 +168,7 @@
         "age": 123,
         "isActive": true,
         "birthDate": "1900-10-28",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Espanyol-Logo.png?token=GHSAT0AAAAAAC6JYLXOTMJ3P72QPPOPGJQAZ5IWOVA",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Espanyol-Logo.png",
         "division": "La Liga",
         "hobbies": ["Jeugdvoetbal", "Supportersengagement", "Stadsontwikkeling"],
         "clubDetails": {
@@ -186,7 +186,7 @@
         "age": 40,
         "isActive": true,
         "birthDate": "1983-07-08",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Getafe-Logo.png?token=GHSAT0AAAAAAC6JYLXP4V5PHYKSBFSLXMIEZ5IWPDA",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Getafe-Logo.png",
         "division": "La Liga",
         "hobbies": ["Tactische innovatie", "Gemeenschapswerk", "Jeugdontwikkeling"],
         "clubDetails": {
@@ -204,7 +204,7 @@
         "age": 99,
         "isActive": true,
         "birthDate": "1924-05-29",
-        "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-MohaHadji03/refs/heads/main/src/public/img/Rayo_Vallecano_logo.png?token=GHSAT0AAAAAAC6JYLXPDU74VK3TC5AFI2UIZ5IWPVQ",
+        "imageUrl": "https://raw.githubusercontent.com/MohaHadji03/ProjectOpdrachtWebOntw/refs/heads/main/src/public/img/Rayo_Vallecano_logo.png",
         "division": "La Liga",
         "hobbies": ["Gemeenschapsprojecten", "Sociale initiatieven", "Jeugdvoetbal"],
         "clubDetails": {
