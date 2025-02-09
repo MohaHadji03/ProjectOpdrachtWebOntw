@@ -1,0 +1,99 @@
+[
+    {
+      "id": "CLUB-001",
+      "clubName": "Real Madrid",
+      "stadion": "Santiago Bernabéu",
+      "coach": "Carlo Ancelotti",
+      "foundedYear": 1902,
+      "clubColor": "Wit"
+    },
+    {
+      "id": "CLU-002",
+      "clubName": "FC Barcelona",
+      "stadion": "Estadi Olímpic Lluís Companys",
+      "coach": "Hansi Flick",
+      "foundedYear": 1899,
+      "clubColor": "Blauw en granaat"
+    },
+    {
+      "id": "CLUB-003",
+      "clubName": "Atlético Madrid",
+      "stadion": "Cívitas Metropolitano",
+      "coach": "Diego Simeone",
+      "foundedYear": 1903,
+      "clubColor": "Rood en wit"
+    },
+    {
+      "id": "CLUB-004",
+      "clubName": "Sevilla FC",
+      "stadion": "Ramón Sánchez Pizjuán",
+      "coach": "Xavi García Pimienta",
+      "foundedYear": 1905,
+      "clubColor": "Rood en wit"
+    },
+    {
+      "id": "CLUB-005",
+      "clubName": "Valencia CF",
+      "stadion": "Mestalla",
+      "coach": "Carlos Corberán",
+      "foundedYear": 1919,
+      "clubColor": "Wit en zwart"
+    },
+    {
+      "id": "CLUB-006",
+      "clubName": "Real Sociedad",
+      "stadion": "Reale Arena",
+      "coach": "Imanol Alguacil",
+      "foundedYear": 1909,
+      "clubColor": "Blauw en wit"
+    },
+    {
+      "id": "CLUB-007",
+      "clubName": "Real Betis",
+      "stadion": "Benito Villamarín",
+      "coach": "Manuel Pellegrini",
+      "foundedYear": 1907,
+      "clubColor": "Groen en wit"
+    },
+    {
+      "id": "CLUB-008",
+      "clubName": "Villarreal CF",
+      "stadion": "Estadio de la Cerámica",
+      "coach": "Marcelino García Toral",
+      "foundedYear": 1923,
+      "clubColor": "Geel"
+    },
+    {
+      "id": "CLUB-009",
+      "clubName": "Athletic Club",
+      "stadion": "San Mamés",
+      "coach": "Ernesto Valverde",
+      "foundedYear": 1898,
+      "clubColor": "Rood en wit"
+    },
+    {
+      "id": "CLUB-010",
+      "clubName": "RCD Espanyol",
+      "stadion": "RCDE Stadium",
+      "coach": "Luis García",
+      "foundedYear": 1900,
+      "clubColor": "Blauw en wit"
+    },
+    {
+      "id": "CLUB-011",
+      "clubName": "Getafe CF",
+      "stadion": "Coliseum Alfonso Pérez",
+      "coach": "José Bordalás",
+      "foundedYear": 1983,
+      "clubColor": "Blauw"
+    },
+    {
+      "id": "CLUB-012",
+      "clubName": "Rayo Vallecano",
+      "stadion": "Estadio de Vallecas",
+      "coach": "Francisco Rodríguez",
+      "foundedYear": 1924,
+      "clubColor": "Rood en wit"
+    }
+  ]
+  
